@@ -1,2 +1,2 @@
-# azure-resume
-My own Azure Resume
+# azure-cv
+My own Azure CV
