@@ -1,2 +1,2 @@
 # azure-cv
-My own Azure CV
+My own CV built using Azure tools
